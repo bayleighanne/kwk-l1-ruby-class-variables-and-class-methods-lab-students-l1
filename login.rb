@@ -12,3 +12,6 @@
 # jessica = User.new
 # jessica.name = "Jessica"
 # puts jessica.name 
+
+class User 
+  attr_accessor
